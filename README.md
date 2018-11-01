@@ -6,7 +6,7 @@ Math.js
 Body-Parser
 
 In project directory, run:
-npm start
+node index.js
 
 Example usage:
 
